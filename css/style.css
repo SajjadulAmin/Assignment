@@ -1,0 +1,158 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgb(246 247 228);
+  font-family: "Raleway", sans-serif;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+.flex-wrap {
+  display: flex;
+}
+
+/* First Section */
+
+.first-section {
+  margin: 50px 0;
+}
+
+.text-section {
+  width: 50%;
+  margin-top: 80px;
+}
+.top {
+  margin-bottom: 20px;
+  padding-left: 15px;
+  border-left: 5px solid rgb(240, 93, 93);
+}
+h3 {
+  font-size: 35px;
+  font-weight: 600;
+}
+h2 {
+  font-size: 45px;
+  font-weight: 700;
+}
+span {
+  color: rgb(240, 93, 93);
+}
+.text-section p {
+  font-size: 18px;
+  font-weight: 500;
+  margin: 10px 0 40px 0;
+}
+.text-section a {
+  text-decoration: none;
+  font-weight: 700;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.text-section .button1 {
+  background-color: rgb(240, 93, 93);
+  color: #fff;
+  margin-right: 20px;
+}
+.text-section .button2 {
+  background-color: #fff;
+  color: gray;
+}
+
+.section-img {
+  width: 50%;
+}
+.section-img img {
+  width: 70%;
+}
+.first-section .section-img img {
+  float: right;
+}
+/* First Section */
+.third-section {
+  margin: 60px 0;
+}
+/* Second Section */
+
+.second-section h3 {
+  padding: 0 0 0 80px;
+}
+.second-section p {
+  line-height: 1.5em;
+  padding: 10px 80px 0 80px;
+}
+
+.second-section a {
+  margin-left: 80px;
+}
+
+/* Second Section */
+
+/* Third Section */
+
+.center {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.service {
+  width: 30%;
+  margin-top: 50px;
+  text-align: center;
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.margin {
+  margin-right: 5%;
+}
+.service h4 {
+  padding-top: 40px;
+}
+
+/* Third Section */
+
+/* Fourth Section */
+.fourth-section {
+  margin: 80px 0 60px 0;
+}
+.fourth-section h3 {
+  margin-left: 10px;
+}
+.fourth-section p {
+  margin: 20px 10px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.fourth-section input {
+  width: 50%;
+  height: 40px;
+  font-size: 14px;
+  color: #495057;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  padding: 0px 20px;
+  margin: 10px;
+}
+
+.fourth-section .btn {
+  color: #fff;
+  background-color: rgb(240, 93, 93);
+  padding: 10px 20px;
+  font-weight: 700;
+  border: none;
+  border-radius: 5px;
+  margin: 20px 10px 10px 10px;
+}
+/* Fourth Section */
+
+/* Footer Section */
+.footer {
+  color: #fff;
+  background-color: rgb(19, 15, 15);
+  padding: 30px;
+  text-align: center;
+}
+/* Footer Section */
